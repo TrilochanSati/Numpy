@@ -1,4 +1,3 @@
-# Numpy
 import numpy as np
 
 #Creating Arrays 
@@ -13,7 +12,7 @@ np.zeros((3,4)) #Create an array of zeros
 
 np.ones((2,3,4),dtype=np.int16) #Create an array of ones
 
-d = np.arange(10,25,5)#Create an array of evenly¯ spaced values (step value)
+d = np.arange(10,25,5)#Create an array of evenly spaced values (step value)
 
 np.linspace(0,2,9) #Create an array of evenlyspaced values (number of samples)
 
